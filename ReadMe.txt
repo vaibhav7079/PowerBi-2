@@ -21,3 +21,6 @@ d.	What additional data can be helpful to add more insights & value to the team?
 Final Deliverables:
 a.	Analytics Dashboard using Power BI Tool
 b.	Detailed document summarizing the insight
+
+
+
