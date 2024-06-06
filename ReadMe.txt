@@ -5,7 +5,7 @@ we should be able to analyze data and answer the key business questions with the
  Also, we should document & communicate the insights and findings from the data
 
 Business Case:
-As analyst and we are working for leading e-commerce client. 
+As analyst and we are working for leading e-commerce client
 The client asked we to create analytical dash boards  below themes.
 •	Overview about various KPI’s
 •	Pricing & Promotion
