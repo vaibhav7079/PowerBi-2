@@ -2,7 +2,7 @@ Goal of the Project:
 Working with data sets using Power BI Tool. 
 we should be able to analyze data and answer the key business questions with the help of
  dashboards and report and derive insights.
- Also, we should document & communicate the insights and findings from the data
+ Also, we should document & communicate the insights and findings from the data   
 
 Business Case:
 As analyst and we are working for leading e-commerce client
